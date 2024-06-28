@@ -53,18 +53,20 @@ laboratorio-clinico
 
 3. Ejecuta el proyecto:
 
-  Abre el archivo Main.java.
-
-  Haz clic en el botón de reproducción (Run) en la esquina superior derecha o usa el atajo F5.
+  - Abre el archivo Main.java.
+  - Haz clic en el botón de reproducción (Run) en la esquina superior derecha o usa el atajo F5.
 
 ## Clases y Funcionalidades
   **Paciente.java**
+  
   Gestiona la información de los pacientes.
 
   **Prueba.java**
+  
   Gestiona la información de las pruebas realizadas.
 
   **Cita.java**
+  
   Gestiona la información de las citas.
 
   **OrdenamientoBusqueda.java**
@@ -72,15 +74,19 @@ laboratorio-clinico
   Implementa algoritmos de ordenamiento (Quicksort) y búsqueda (binaria).
 
   **Optimizado.java**
+  
   Implementa una estructura optimizada utilizando un HashMap.
 
   **EstructuraAvanzada.java**
+  
   Implementa una estructura de datos avanzada (árbol binario de búsqueda).
 
 **Concurrencia.java**
+
   Gestiona el acceso concurrente a la lista de citas.
 
 **Main.java**
+
   Clase principal que ejecuta ejemplos de uso de las diferentes clases y funcionalidades.
 
 ## Ejemplos
