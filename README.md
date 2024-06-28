@@ -48,9 +48,8 @@ laboratorio-clinico
    git clone https://github.com/usuario/laboratorio-clinico.git
 
 2. Abre el proyecto en Visual Studio Code:
-
    ```sh
-code laboratorio-clinico
+   code laboratorio-clinico
 
 3. Ejecuta el proyecto:
 
