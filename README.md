@@ -49,7 +49,7 @@ laboratorio-clinico
 
 2. Abre el proyecto en Visual Studio Code:
 
-```sh
+   ```sh
 code laboratorio-clinico
 
 3. Ejecuta el proyecto:
